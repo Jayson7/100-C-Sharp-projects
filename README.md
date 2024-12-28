@@ -65,9 +65,6 @@ The primary objectives of this repository are to:
 ## Getting Started
 
 1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/100-csharp-projects.git
-   ```
 2. Navigate to a specific project folder to find its README and instructions.
 3. Follow the setup guidelines for each project to get started.
 
@@ -80,8 +77,7 @@ Currently, contributions are not open as this repository is managed by a sole au
 This repository is licensed under the MIT License. You are free to use, modify, and distribute the projects with proper attribution.
 
 ## Author
-
-This repository is maintained by **[Your Name]**, the sole author and creator. For any inquiries or feedback, feel free to reach out via GitHub or email.
+This repository is maintained by Adebayo Abiodun Omobolaji (Jayson), the sole author and creator. For any inquiries or feedback, feel free to reach out via GitHub or email at jaysontechsolutions@gmail.com.
 
 ---
 
