@@ -1,0 +1,49 @@
+﻿using System;
+
+namespace ConsoleCalculator
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Console Calculator in C#\r");
+            Console.WriteLine("------------------------\n");
+
+            Console.WriteLine("Enter a number:");
+            double num1 = Convert.ToDouble(Console.ReadLine());
+
+            Console.WriteLine("Enter another number:");
+            double num2 = Convert.ToDouble(Console.ReadLine());
+
+            Console.WriteLine("Choose an operator: +, -, *, /");
+            string op = Console.ReadLine();
+
+            double result = 0;
+
+            switch (op)
+            {
+                case "+":
+                    result = num1 + num2;
+                    break;
+                case "-":
+                    result = num1 - num2;
+                    break;
+                case "*":
+                    result = num1 * num2;
+                    break;
+                case "/":
+                    if (num2 != 0)
+                        result = num1 / num2;
+                    else
+                        Console.WriteLine("Division by zero not allowed!");
+                    break;
+                default:
+                    Console.WriteLine("Invalid operator.");
+                    break;
+            }
+
+            Console.WriteLine($"Result: {result}");
+            Console.ReadKey();
+        }
+    }
+}

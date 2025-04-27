@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\core\100-C-Sharp-projects\ConsoleCalculator\bin\Debug\net8.0\ConsoleCalculator.exe
+C:\Users\User\Desktop\core\100-C-Sharp-projects\ConsoleCalculator\bin\Debug\net8.0\ConsoleCalculator.deps.json
+C:\Users\User\Desktop\core\100-C-Sharp-projects\ConsoleCalculator\bin\Debug\net8.0\ConsoleCalculator.runtimeconfig.json
+C:\Users\User\Desktop\core\100-C-Sharp-projects\ConsoleCalculator\bin\Debug\net8.0\ConsoleCalculator.dll
+C:\Users\User\Desktop\core\100-C-Sharp-projects\ConsoleCalculator\bin\Debug\net8.0\ConsoleCalculator.pdb
+C:\Users\User\Desktop\core\100-C-Sharp-projects\ConsoleCalculator\obj\Debug\net8.0\ConsoleCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\core\100-C-Sharp-projects\ConsoleCalculator\obj\Debug\net8.0\ConsoleCalculator.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\core\100-C-Sharp-projects\ConsoleCalculator\obj\Debug\net8.0\ConsoleCalculator.AssemblyInfo.cs
+C:\Users\User\Desktop\core\100-C-Sharp-projects\ConsoleCalculator\obj\Debug\net8.0\ConsoleCalculator.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\core\100-C-Sharp-projects\ConsoleCalculator\obj\Debug\net8.0\ConsoleCalculator.sourcelink.json
+C:\Users\User\Desktop\core\100-C-Sharp-projects\ConsoleCalculator\obj\Debug\net8.0\ConsoleCalculator.dll
+C:\Users\User\Desktop\core\100-C-Sharp-projects\ConsoleCalculator\obj\Debug\net8.0\refint\ConsoleCalculator.dll
+C:\Users\User\Desktop\core\100-C-Sharp-projects\ConsoleCalculator\obj\Debug\net8.0\ConsoleCalculator.pdb
+C:\Users\User\Desktop\core\100-C-Sharp-projects\ConsoleCalculator\obj\Debug\net8.0\ConsoleCalculator.genruntimeconfig.cache
+C:\Users\User\Desktop\core\100-C-Sharp-projects\ConsoleCalculator\obj\Debug\net8.0\ref\ConsoleCalculator.dll
